@@ -17,7 +17,7 @@ Diversas técnicas foram empregadas, incluindo a navegação entre páginas da w
 
 ##  Visite a Barbearia Alura! 👀
 
-Veja nosso site adaptável em 🚩[Barbearia Alura](https://barbearia-alura-rodolfo-sampaio.vercel.app/contato.html) e experimente diferentes tamanhos de tela pressionando `F12` e usando o Toggle Device Toolbar `Ctrl + Shift + M`.
+Veja nosso site adaptável em 🚩[Barbearia Alura](https://barbearia-alura-rodolfo-sampaio.vercel.app/) e experimente diferentes tamanhos de tela pressionando `F12` e usando o Toggle Device Toolbar `Ctrl + Shift + M`.
 
 
 
