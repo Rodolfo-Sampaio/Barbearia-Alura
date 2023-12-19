@@ -33,10 +33,15 @@ Veja nosso site adaptável em 🚩[Barbearia Alura](https://barbearia-alura-rodo
 
 <br>
 
-### Instrutor:
+### Instrutor(a):
 
 <a href="https://github.com/pedromarins">
   <img src="https://avatars.githubusercontent.com/u/215004?v=4" alt="Pedro Marins" style="border-radius: 50%; width: 50px; height: 50px;">
 </a>
 
 [Pedro Marins](https://github.com/pedromarins)
+<br>
+<br>
+### "Hey, campeão da programação! 💪 Bem-vindo ao meu 'Gym de Códigos'. Se curtiu o treino, que tal dar aquele [`Follow`](https://github.com/Rodolfo-Sampaio)? Vamos levantar juntos os pesos do código! Até mais, que a força do HTML e o poder do CSS estejam com você! 🏋️‍♂️💻"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer" alt="Waving Capsule Render">
