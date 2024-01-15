@@ -42,6 +42,6 @@ Veja nosso site adaptável em 🚩[Barbearia Alura](https://barbearia-alura-rodo
 [Pedro Marins](https://github.com/pedromarins)
 <br>
 <br>
-### "Hey, campeão da programação! 💪 Bem-vindo ao meu 'Gym de Códigos'. Se curtiu o treino, que tal dar aquele [`Follow`](https://github.com/Rodolfo-Sampaio)? Vamos levantar juntos os pesos do código! Até mais, que a força do HTML e o poder do CSS estejam com você! 🏋️‍♂️💻"
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer" alt="Waving Capsule Render">
